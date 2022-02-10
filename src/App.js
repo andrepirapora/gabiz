@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>O futuro está senado construído na América Latina.</p>
+        <p>O futuro está sendo construído na América Latina.</p>
       </header>
     </div>
   );
