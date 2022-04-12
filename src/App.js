@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -6,7 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>O futuro está sendo construído na América Latina.</p>
+        <p>
+          O Gabiz é uma plataforma que conecta clientes com profissionais
+          autônomos, quando você se cadastra ou usa o Google para se autenticar,
+          está concordando com os nossos termos de uso.
+        </p>
       </header>
     </div>
   );
