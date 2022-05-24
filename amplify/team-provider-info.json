@@ -1,0 +1,16 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gabiz-staging-182916-authRole",
+      "UnauthRoleArn": "arn:aws:iam::159389069964:role/amplify-gabiz-staging-182916-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::159389069964:role/amplify-gabiz-staging-182916-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gabiz-staging-182916-deployment",
+      "UnauthRoleName": "amplify-gabiz-staging-182916-unauthRole",
+      "StackName": "amplify-gabiz-staging-182916",
+      "StackId": "arn:aws:cloudformation:us-east-1:159389069964:stack/amplify-gabiz-staging-182916/676cd7d0-e01a-11eb-9ff7-124b5c3af171",
+      "AmplifyAppId": "dvffbe9eom1to",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-gabiz-staging-182916-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    }
+  }
+}
