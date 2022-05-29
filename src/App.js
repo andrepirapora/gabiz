@@ -9,7 +9,7 @@ function App() {
         <p>
           O Gabiz é uma plataforma que conecta clientes com profissionais
           autônomos, quando você se cadastra ou usa o Google para se autenticar,
-          está concordando acom os nossos termos de uso. Respeite os termos.
+          está concordando acom os nossos termos de uso.
         </p>
       </header>
     </div>
